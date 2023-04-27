@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import face_recognition
 import os
-import dlib
 from datetime import datetime
 
 path = 'images_attendance'
